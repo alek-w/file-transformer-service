@@ -12,6 +12,6 @@ libraryDependencies ++= Seq(
 libraryDependencies ++= List(
   "com.typesafe.slick" %% "slick" % "2.1.0",
   "com.h2database" % "h2" % "1.3.170",
-  "com.typesafe.scala-logging" %% "scala-logging" % "3.1.0",
+  "com.typesafe.scala-logging" %% "scala-logging" % "3.9.4",
   "org.scalatest"        %%    "scalatest"    	      %      "2.2.6"     %    "test"
 )
